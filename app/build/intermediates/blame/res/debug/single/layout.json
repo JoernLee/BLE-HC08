@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Android\\Project\\Androidblue\\HC08_BLE\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Android\\Project\\Androidblue\\HC08_BLE\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\Project\\Androidblue\\HC08_BLE\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ble_activity.xml",
+        "source": "D:\\Android\\Project\\Androidblue\\HC08_BLE\\app\\src\\main\\res\\layout\\ble_activity.xml"
+    },
+    {
+        "merged": "D:\\Android\\Project\\Androidblue\\HC08_BLE\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem.xml",
+        "source": "D:\\Android\\Project\\Androidblue\\HC08_BLE\\app\\src\\main\\res\\layout\\listitem.xml"
+    }
+]

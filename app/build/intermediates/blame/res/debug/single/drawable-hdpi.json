@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Android\\Project\\Androidblue\\HC08_BLE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\Android\\Project\\Androidblue\\HC08_BLE\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\Project\\Androidblue\\HC08_BLE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\hc.png",
+        "source": "D:\\Android\\Project\\Androidblue\\HC08_BLE\\app\\src\\main\\res\\drawable-hdpi\\hc.png"
+    },
+    {
+        "merged": "D:\\Android\\Project\\Androidblue\\HC08_BLE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_button_pressed.9.png",
+        "source": "D:\\Android\\Project\\Androidblue\\HC08_BLE\\app\\src\\main\\res\\drawable-hdpi\\bg_button_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Project\\Androidblue\\HC08_BLE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_button.9.png",
+        "source": "D:\\Android\\Project\\Androidblue\\HC08_BLE\\app\\src\\main\\res\\drawable-hdpi\\bg_button.9.png"
+    }
+]
